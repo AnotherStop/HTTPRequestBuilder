@@ -1,9 +1,11 @@
 HTTPRequestBuilder
 ==================
 
-##HTTP request builder
+##Description
 
 The HTTP request builder is a java program that enable user to construct a customized HTTP request, send it to host  and receive the corresponding responses.
+
+![ScreenShot](./ScreenShot.png "HTTP Request Builder")
 
 User defined field including host, port, HTTP method, internal path, HTTP protocol version, connection type, user-agent, accept.
 
